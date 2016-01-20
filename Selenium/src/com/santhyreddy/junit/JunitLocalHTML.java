@@ -11,9 +11,9 @@ import org.openqa.selenium.support.ui.Select;
 /**********************************************************
  * 
  * *** Scenario to be automated **** Launch the web browser and open the webpage
- * Click on the â€œGoogleâ€ hyperlink Navigate back to the original web page Select
- * the â€œGreenâ€ in color dropdown Select the â€œOrangeâ€ in the fruit dropdown
- * Select the â€œElephantâ€ in the animal dropdown
+ * Click on the “Google” hyperlink Navigate back to the original web page Select
+ * the “Green” in color dropdown Select the “Orange” in the fruit dropdown
+ * Select the “Elephant” in the animal dropdown
  * 
  **********************************************************/
 

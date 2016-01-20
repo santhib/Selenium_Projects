@@ -8,9 +8,9 @@ import org.openqa.selenium.support.ui.Select;
 /**********************************************************************************************
  * Scenario to be automated --
  * 
- * Launch the web browser and open the application under test â€“
+ * Launch the web browser and open the application under test –
  * 'file:///C:/Users/santhi/Desktop/new.html' Verify the web page title Verify
- * if the â€œTry itâ€ button is displayed Verify that the â€œTry itâ€ button is
+ * if the “Try it” button is displayed Verify that the “Try it” button is
  * enabled Select "Green" value from the select drop down. Based on visibility
  * of the "Try it"button, click it.
  ***********************************************************************************************/
